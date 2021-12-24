@@ -89,7 +89,8 @@
   
   @media (max-width: 576px)
   {
-  .photo {
+
+    .photo {
           display: none;
       }
 .project-name {
@@ -100,8 +101,11 @@ h2 {
     font-size: 30px;
 }
 
-h3 {font-size: 20px}
-.primary-link {
+h3 {
+    font-size: 20px
+}
+.primary-link 
+{
     text-align: center;
 }
 
