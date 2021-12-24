@@ -87,3 +87,15 @@
     text-decoration: underline;
   }
   
+  @media (max-width: 576px)
+  {
+  .photo {
+          display: none;
+      }
+h1 {
+    font-size: 70px;
+}
+.primary-link {
+    text-align: center;
+}
+  }
