@@ -92,10 +92,10 @@
   .photo {
           display: none;
       }
-h1 {
+.project-name {
     font-size: 60px;
 }
-body {
+.primary-link {
     text-align: center;
 }
   }
