@@ -93,9 +93,20 @@
           display: none;
       }
 .project-name {
-    font-size: 60px;
+    font-size: 40px;
 }
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {font-size: 20px}
 .primary-link {
+    text-align: center;
+}
+
+.paragraph {
+    display: flex;
     text-align: center;
 }
   }
