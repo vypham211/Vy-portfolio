@@ -107,7 +107,7 @@ h3 {
     font-size: 20px;
     text-align: center;
 }
-.primary-link 
+.project-link 
 {
     display: block;
     text-align: center;
@@ -115,8 +115,7 @@ h3 {
 
 }
 
-.paragraph {
-    display: flex;
+p {
     text-align: center;
 }
   }
