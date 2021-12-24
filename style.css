@@ -100,14 +100,19 @@
 
 h2 {
     font-size: 30px;
+    text-align: center;
 }
 
 h3 {
-    font-size: 20px
+    font-size: 20px;
+    text-align: center;
 }
 .primary-link 
 {
+    display: block;
     text-align: center;
+    margin: 0 20px;
+
 }
 
 .paragraph {
