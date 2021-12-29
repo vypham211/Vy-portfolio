@@ -17,6 +17,7 @@
   h1 {
     font-size: 96px;
     line-height: 1;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   
   h2 {
@@ -123,5 +124,6 @@ p {
   }
 
 .hero {
-    background-color: blanchedalmond;
+    background-color:#749df5;
+    padding: 160px 20px;
 }
