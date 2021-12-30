@@ -121,3 +121,7 @@ p {
     background-color:#749df5;
     padding: 160px 20px;
 }
+
+.profile-photo {
+    border-radius: 50px;
+}
