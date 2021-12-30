@@ -30,7 +30,8 @@ img {
   }
   
   h2 {
-    font-size: 48px;
+    font-size: 40px;
+    color: var(--primary-color);
   }
   
   h3 {
@@ -43,6 +44,11 @@ img {
     line-height: 1.5;
   }
   
+  ul {
+    font-size: 18px;
+    line-height: 1.5;
+    color: var(--primary-color);
+  }
   .navigation-links {
     display: flex;
     margin-top: 40px;
@@ -75,9 +81,6 @@ img {
     padding: 60px 40px;
   }
   
-  .about-paragraphs p {
-    margin: 10px;
-  }
   
   .email-link {
     display: flex;
@@ -115,7 +118,7 @@ h3 {
 }
 p {
     text-align: center;
-    font-size: 13p;
+    font-size: 13px;
 }
   }
 
