@@ -86,10 +86,7 @@
   @media (max-width: 576px)
   {
 
-    .photo {
-          display: none;
-      }
-.project-name {
+.description {
     font-size: 40px;
 }
 
@@ -122,6 +119,6 @@ p {
     padding: 160px 20px;
 }
 
-.profile-photo {
-    border-radius: 50px;
+.about-paragraphs img {
+    border-radius: 50%;
 }
