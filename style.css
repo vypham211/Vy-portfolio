@@ -7,7 +7,15 @@
   body {
     margin-top: 100px;
   }
-  
+  .hero {
+    background-color:#749df5;
+    padding: 160px 20px;
+}
+
+img {
+    border-radius: 50%;
+}
+
   h1,
   h2,
   h3 {
@@ -114,11 +122,4 @@ p {
 }
   }
 
-.hero {
-    background-color:#749df5;
-    padding: 160px 20px;
-}
 
-.about-paragraphs img {
-    border-radius: 50%;
-}
