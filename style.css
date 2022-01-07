@@ -91,7 +91,7 @@ img {
   }
   
   
-  .email-link {
+  .email-link, .linkedin{
     display: flex;
     justify-content: center;
     color: var(--primary-color);
