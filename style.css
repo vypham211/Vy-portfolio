@@ -46,7 +46,8 @@ img {
     text-align: center;
   }
   
-  footer .contact-box {
+  .contact-box {
+    display: block;
     background: var(--secondary-color);
     padding: 30px 70px;
     border-radius: 10px;
