@@ -115,7 +115,7 @@ h2 {
     text-align: center;
 }
 
-h3 {
+h3, .email-link, .linkedin {
     font-size: 20px;
     text-align: center;
 }
