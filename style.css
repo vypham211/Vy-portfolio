@@ -46,6 +46,11 @@ img {
     text-align: center;
   }
   
+  footer .contact-box {
+    background: var(--secondary-color);
+    padding: 30px 120px;
+    border-radius: 10px;
+  }
   p {
     font-size: 18px;
     line-height: 1.5;
